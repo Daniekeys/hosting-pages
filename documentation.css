@@ -1,0 +1,19 @@
+.header{
+ background-color: rebeccapurple;
+}
+.park{
+ display: grid;
+ grid-template-rows: auto auto 3fr;
+ grid-gap: 10px;
+ width: 100%;
+ overflow-x: hidden;
+ height: 70vh;
+}
+.resize{
+ width: 100%;
+ height: auto;
+}
+.adjust{
+ width: 50%;
+ height: auto;
+}
